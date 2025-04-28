@@ -4,4 +4,5 @@ However, despite being published in 2018, StockNet was coded in the very outdate
 The code architecture was restructured as follows: Compared to the old version, the three-layer model is not integrated into a single module but is instead constructed in a modular and separated manner. This approach enhances maintainability.
 
 StrockNet (https://github.com/yumoxu/stocknet-dataset) dataset could be directly used in this code. 
+
 Original paper is here. https://aclanthology.org/P18-1183/
